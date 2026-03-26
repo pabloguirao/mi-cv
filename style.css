@@ -249,4 +249,16 @@ a:hover{
     font-size:26px;
   }
 
+    .project-tech{
+    flex-wrap: wrap;
+  }
+
+  .project-links{
+    flex-wrap: wrap;
+  }
+
+  .skills{
+    gap: 8px;
+  }
+
 }
